@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'atten'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_855747F384CF474FB9F5FF09F0EDA1BC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_101C1191BF904595816C1FC2A10D94AC }}
           package: .
